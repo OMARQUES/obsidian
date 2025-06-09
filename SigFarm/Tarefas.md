@@ -1,0 +1,2 @@
+- DW para GNS (Fazer a funcionalidade para consumir os XLSX)
+- Gerar relatório do LandWatch
