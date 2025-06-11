@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[DW para GNS]]
 - [ ] Relatório LandWatch
+- [ ] Testar smGeo
 
 
 ## Fazendo
