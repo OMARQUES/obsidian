@@ -6,20 +6,17 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Relatório LandWatch
-<<<<<<< HEAD
-- [ ] [[DW para GNS]]
-=======
-- [ ] Testar smGeo
->>>>>>> origin/main
+- [ ] Dw para GNS
 
 
 ## Fazendo
 
+- [ ] [[Testar smGeo]]
 
 
 ## Finalizados
 
+- [x] Relatório LandWatch
 
 
 
