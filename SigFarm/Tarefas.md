@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] [[DW para GNS]]
 - [ ] Relatório LandWatch
+- [ ] [[DW para GNS]]
 
 
 ## Fazendo
