@@ -9,13 +9,13 @@ kanban-plugin: board
 - [x] Exercícios
 - [x] Limpar areia gatos
 - [x] Recolher lixo
-- [ ] Lavar roupa
+- [x] Lavar roupa
 - [x] Recolher roupas
 - [x] Guardar roupa
 - [x] Lavar louça
-- [ ] Limpar casa
-- [ ] Colocar tomadas cozinha
-- [ ] Fazer janta
+- [x] Limpar casa
+- [x] Colocar tomadas cozinha
+- [x] Fazer janta
 
 
 
